@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Alura Destroyer
+// @name         Lunaris Alura
 // @namespace    https://cursos.alura.com.br/
 // @version      2024-05-12
-// @description  eu to cansado jefe é mt coisakkkk
-// @author       marcos10pc
+// @description  Lunaris
+// @author       Moony
 // @match        https://cursos.alura.com.br/course/*/task/*
 // @icon         https://i.imgur.com/gP1LZq9.png
 // @grant        none
@@ -12,5 +12,5 @@
 
 (function() {
     'use strict';
-    console.log("https://pixgg.com/marcos10pc"); 
+    console.log("Lunaris injetado"); 
 })();
