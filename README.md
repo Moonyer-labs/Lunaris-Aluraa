@@ -1,6 +1,4 @@
-# Alura-Destroyer
+# Lunaris-Alura
 
-### Script simples q eu fiz pra tampermonkey que faz as licoes automaticamente do alura
+### Versão do Lunaris Para alura
 
-# Como Usar
-## Coloque o script.js no tampermonkey ative e va para uma atividade no alura
