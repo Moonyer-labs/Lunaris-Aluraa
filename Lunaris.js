@@ -5,7 +5,7 @@
 // @description  Lunaris Alura
 // @author       Moony
 // @match        https://cursos.alura.com.br/course/*/task/*
-// @icon         https://i.imgur.com/gP1LZq9.png
+// @icon         https://i.ibb.co/5h9MHdm3/imagem-2025-02-10-204310086.png
 // @grant        none
 // ==/UserScript==
 
